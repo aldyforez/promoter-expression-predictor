@@ -256,9 +256,8 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## 📧 **Contact**
 
-**Your Name** - your.email@example.com  
-**LinkedIn** - [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**Project** - [github.com/yourusername/promoter-expression-predictor](https://github.com/yourusername/promoter-expression-predictor)
+**Ganesan Murugan** - ganesanmurugan11@gmail.com  
+**LinkedIn** - [Ganesan Murugan](https://www.linkedin.com/in/ganesan-murugan-a34aa7231/)  
 
 ---
 
